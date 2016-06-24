@@ -15,3 +15,5 @@ credentials += Credentials(Path.userHome / ".ivy2" / ".credentials")
 publishTo := {
   if (isSnapshot.value) Some(snapshotUrl) else Some(releaseUrl)
 }
+
+asdadasd
