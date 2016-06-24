@@ -1,0 +1,5 @@
+[0m[[0minfo[0m] [0m:: delivering :: default#default-92b97f_2.9.1;0.1-SNAPSHOT :: 0.1-SNAPSHOT :: release :: Fri Jun 24 15:05:35 IST 2016[0m
+[0m[[0mdebug[0m] [0m	options = status=release pubdate=Fri Jun 24 15:05:35 IST 2016 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null[0m
+[0m[[0mdebug[0m] [0mpost 1.3 ivy file: using exact as default matcher[0m
+[0m[[0minfo[0m] [0m	delivering ivy file to /home/synerzip/1Sandeep/1UpToDate/1New_era/1Loven/CI/sbt_test/target/scala-2.9.1/ivy-0.1-SNAPSHOT.xml[0m
+[0m[[0mdebug[0m] [0m	deliver done (46ms)[0m
